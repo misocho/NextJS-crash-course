@@ -1,0 +1,22 @@
+{
+  "name": "nextjs-crash-course",
+  "version": "1.0.0",
+  "description": "This is a Nextjs crashcourse from Travis Media https://www.youtube.com/watch?v=IkOVe40Sy0U&amp;t=3s",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misocho/NextJS-crash-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misocho/NextJS-crash-course/issues"
+  },
+  "homepage": "https://github.com/misocho/NextJS-crash-course#readme"
+}
